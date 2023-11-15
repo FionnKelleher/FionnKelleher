@@ -8,7 +8,7 @@
 
 ***<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200">![repos-per-language](https://github.com/FionnKelleher/FionnKelleher/assets/93994457/b94a943c-8aef-4f51-a74c-98ef53effd1f)***
 
-***<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200"><style>* {
+***<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200">
          (https://github.com/FionnKelleher/FionnKelleher/assets/93994457/227fcb0e-80b5-4de3-9a96-2e8c643a5061)
 ***
 
