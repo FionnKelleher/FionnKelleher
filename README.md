@@ -18,8 +18,7 @@
 
 **<a class="heading-link" href="#My Other Skills"> Skills**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons? [![My Skills](https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)&perline=3)](https://skillicons.dev)" />
-  </a>
-</p>
+<div align="center">
+       
+  [![Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://github.com/fionnkelleher)
+</div>
