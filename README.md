@@ -20,6 +20,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?per i=azure,bash,bootstrap,emacs,js,linux,matlab,mint,visualstudio,ai,powershell,raspberrypi,vscode&perline&perline=3" />
+    <img src="https://skillicons.dev/icons? [![My Skills](https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)&perline=3)](https://skillicons.dev)" />
   </a>
 </p>
