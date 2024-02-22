@@ -18,4 +18,8 @@
 
 **<a class="heading-link" href="#Skills"> Skills**
 
-***<img width="324" alt="Screen Shot 2023-11-15 at 18 00 39" src="https://github.com/FionnKelleher/FionnKelleher/assets/93994457/24804420-e939-4c58-94c6-373fc61baaeb">***
+***<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,bash,bootstrap,emacs,js,linux,matlab" />
+  </a>
+</p>***
