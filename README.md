@@ -20,6 +20,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,bash,bootstrap,emacs,js,linux,matlab,mint,visualstudio,ai,powershell,raspberrypi,vscode" />
+    <img src="https://skillicons.dev/icons? perline=3 i=azure,bash,bootstrap,emacs,js,linux,matlab,mint,visualstudio,ai,powershell,raspberrypi,vscode" />
   </a>
 </p>
