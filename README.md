@@ -16,10 +16,10 @@
 ***![](https://komarev.com/ghpvc/?username=FionnKelleher)***
 
 
-**<a class="heading-link" href="#Skills"> Skills**
+**<a class="heading-link" href="#My Other Skills"> Skills**
 
-***<p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,bash,bootstrap,emacs,js,linux,matlab" />
+    <img src="https://skillicons.dev/icons?i=azure,bash,bootstrap,emacs,js,linux,matlab,mint,visualstudio,ai,powershell,raspberrypi,vscode" />
   </a>
-</p>***
+</p>
